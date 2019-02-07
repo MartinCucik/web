@@ -483,10 +483,11 @@ header {
 
 
 .head-info {
+      word-break: normal;
  text-align: justify;
     padding-top: 1%;
         margin: 0 auto;
-    text-align: center;
+    
   font-size:20px;
   line-height:22px;
    width: 70%;
