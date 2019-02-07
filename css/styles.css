@@ -483,7 +483,7 @@ header {
 
 
 .head-info {
-
+ text-align: justify;
     padding-top: 1%;
         margin: 0 auto;
     text-align: center;
