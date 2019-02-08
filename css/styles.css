@@ -38,6 +38,13 @@ animation: expand 1s linear;
     
     
 }
+a > img {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.logo a {
+  background-color: red;
+    }
 @keyframes expand {
     0% {
         transform: scale(1);
@@ -1623,6 +1630,8 @@ label {
         width: 96%;
     }
     .logo {
+         margin-bottom: 5%;
+        margin-top: 5%;
     flex-wrap: wrap;
     }
     .navigacia {
