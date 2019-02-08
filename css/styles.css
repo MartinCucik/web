@@ -1634,7 +1634,11 @@ label {
         margin-top: 5%;
     flex-wrap: wrap;
     }
+    .navigacia > li {
+        cursor:pointer;
+    }
     .navigacia {
+       
     padding-left: 0px;
         flex-direction:row;
     }
