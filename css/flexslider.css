@@ -49,7 +49,7 @@ html[xmlns] .slides {display: block;}
 /* Direction Nav */
 
 .flex-direction-nav {*height: 0;}
-.flex-direction-nav a {width: 20px; height: 40px; margin: -25px 0 0; display: block; background: url(../img/bg-direction-nav.png) no-repeat 0 0; position: absolute; bottom: 50%; z-index: 10; cursor: pointer; font-size:0px; text-indent: -20px; opacity: 0.9; -webkit-transition: all .3s ease;}
+.flex-direction-nav a {width: 30px; height: 40px; margin: -25px 0 0; display: block; background: url(../img/bg-direction-nav.png) no-repeat 0 0; position: absolute; bottom: 40%; z-index: 10; cursor: pointer; font-size:0px; text-indent: -20px; opacity: 0.9; -webkit-transition: all .3s ease;}
 .flex-direction-nav .flex-next {background-position: 100%; right: 0% }
 .flex-direction-nav .flex-prev {right: 98,5%;}
 
