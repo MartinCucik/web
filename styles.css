@@ -29,6 +29,9 @@ $gl-lg         : "screen and (max-width: 80em)";   // max 1280px
 animation: expand 1s linear;
   
 }
+.container {
+  border: 10px solid black;
+}
 
 @keyframes expand {
     0% {
@@ -150,6 +153,7 @@ display: flex;
 flex-wrap: wrap;
 justify-content: center;
 }
+
 .galler{
 
 margin: 5px;    
